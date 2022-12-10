@@ -1,4 +1,4 @@
-# Project 3 - Emotion Expression Classifier for Autism 
+# Emotion Expression Classifier for Autism 
 
 ## 1st place in HackDuke 2022 education track
 
